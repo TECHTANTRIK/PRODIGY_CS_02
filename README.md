@@ -1,6 +1,7 @@
 # PRODIGY_CS_02
 image manipulation tool (using python)
 here'a a image manipulation tool where you can encrypt or decrypt your image by shuffling image pixels and using operations.
+For better understanding prefer updated readme file
 ============================code========================================================================================
 from PIL import Image
 import numpy as np
